@@ -1,6 +1,12 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vaishnavy%20R&fontSize=60&fontAlignY=40&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Competitive%20Programmer%20%7C%20ML%20Enthusiast&descAlignY=65&descAlign=50&fontColor=ffffff)
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+the+Future+with+AI+%26+Code;Machine+Learning+Enthusiast;Competitive+Programmer+%7C+250%2B+LeetCode;Full+Stack+Developer+(MERN);Open+Source+Contributor)](https://git.io/typing-svg)
+![Header](header.svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+the+Future+with+AI+%26+Code;Machine+Learning+Enthusiast;Competitive+Programmer+%7C+250%2B+LeetCode;Full+Stack+Developer+(MERN);Open+Source+Contributor)](https://github.com/kit28ada174)
+
+</div>
+
+---
 
 ---
 
@@ -153,6 +159,10 @@ Implemented a deep-learning-based self-supervised framework to learn audio repre
 
 > *"The best way to predict the future is to build it with AI!"* 🚀
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!+%F0%9F%9A%80;Let%27s+connect+and+build+something+amazing!" alt="Footer message"/>
+</div>
 
 **⭐ From [kit28ada174](https://github.com/kit28ada174)**
