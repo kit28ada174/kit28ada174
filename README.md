@@ -2,7 +2,7 @@
 
 ![Header](header.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+the+Future+with+AI+%26+Code;Machine+Learning+Enthusiast;Competitive+Programmer+%7C+250%2B+LeetCode;Full+Stack+Developer+(MERN);Open+Source+Contributor)](https://github.com/kit28ada174)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+the+Future+with+AI+%26+Code;Machine+Learning+Enthusiast;Competitive+Programmer+%7C+500%2B+LeetCode;Full+Stack+Developer+(MERN);Open+Source+Contributor)](https://github.com/kit28ada174)
 
 </div>
 
@@ -12,8 +12,9 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kit28ada174&color=00D9FF&style=for-the-badge&label=Profile+Views)](https://github.com/kit28ada174)
 [![GitHub followers](https://img.shields.io/github/followers/kit28ada174?style=for-the-badge&logo=github&color=00D9FF&labelColor=000000)](https://github.com/kit28ada174)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Max%201512-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kit28ada174/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Max%201360-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kit28ada174)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Max%201535-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kit28ada174/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Max%201416-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kit28ada174)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Max%20934-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
 
 ---
 
@@ -31,7 +32,7 @@ vaishnavy = {
     "web_stack":   ["React", "Node.js", "Express", "MongoDB (MERN)"],
     "databases":   ["MySQL", "MongoDB"],
     "tools":       ["Git", "GitHub", "VS Code", "Linux"],
-    "cp_rating":   {"LeetCode": 1512, "CodeChef": 1360},
+    "cp_rating":   {"LeetCode": 1535, "CodeChef": 1416, "Codeforces": 934},
     "current_focus": "AI/ML Research + Competitive Programming",
     "fun_fact":    "I debug at midnight and solve DSA at dawn! 🌙→☀️",
     "motto":       "Code with curiosity, learn without limits"
@@ -84,8 +85,9 @@ Implemented a deep-learning-based self-supervised framework to learn audio repre
 
 | Platform | Max Rating | Problems Solved | Status |
 |----------|-----------|-----------------|--------|
-| 🟡 LeetCode | **1512** | **250+** | Active Contest Participant |
-| 🟤 CodeChef | **1360** | **752** | Division 4 · 3 Badges |
+| 🟡 LeetCode | **1535** | **500+** | Active Contest Participant |
+| 🟤 CodeChef | **1416** | **863** | Division 4 · 3 Badges |
+| 🔵 Codeforces | **934** | **25** | Active Participant |
 
 ---
 
@@ -110,31 +112,6 @@ Implemented a deep-learning-based self-supervised framework to learn audio repre
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kit28ada174&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&ring_color=00D9FF&border_color=00D9FF" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kit28ada174&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=00D9FF" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kit28ada174&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kit28ada174&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&title_color=00D9FF"/>
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kit28ada174&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15"/>
-</p>
-
----
-
 ## 🎯 Current Focus
 
 ![Studying](https://img.shields.io/badge/Status-Studying%20AI%20%26%20ML-00D9FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000)
@@ -153,6 +130,7 @@ Implemented a deep-learning-based self-supervised framework to learn audio repre
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kit28ada174)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kit28ada174/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kit28ada174)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kit28.24bad174@gmail.com)
 
 ---
